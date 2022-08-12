@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    word = input()
+
+    # Change the next line
+    print(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8213#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 05 May 2022 07:27:45 UTC
+record: -1
